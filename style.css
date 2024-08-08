@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(178, 201, 220);
+}
+.quote-container{
+    height: 200px;
+    width: 300px;
+    border: 8px solid black;
+    border-color: rgb(107, 119, 54);
+    border-top-left-radius: 3rem 4rem 4rem;
+    text-align: center;
+    margin-left: 28rem;
+    margin-top: 10rem;
+}
+button{
+    background-color: rgb(226, 168, 43);
+    color: rgb(252, 252, 252);
+  
+    margin: auto;
+}
+button:hover{
+    background-color: rgb(133, 191, 45);
+}
